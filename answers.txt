@@ -1,7 +1,0 @@
-1. tells git what to ignore, things that are not part of your source code or build files, things like .class files, .jar, or .project
-
-2. merge changes from one branch into another without conflicts, whether because those conflicts are already resolved or because the branch being merged into hasn't changed in those areas
-
-3. There should always be a stable build, and separate branches allow devs to work on tasks without stepping on each others toes.
-
-4. Usually 1
