@@ -4,4 +4,5 @@
 
 3. There should always be a stable build, and separate branches allow devs to work on tasks without stepping on each others toes.
 
-4. Usually 1, sometimes more
+4. Usually 1, sometimes more, but usually 1
+
